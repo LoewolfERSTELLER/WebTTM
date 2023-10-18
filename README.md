@@ -3,11 +3,11 @@ Das WebTTM bedeutet "Weit entwickeltes basiert auf Text trainiertes Modell", und
 <h2>Tensorflow version</h2>
 2.10.1 (pip install tensorflow==2.10.1)
 <h2>Modell</h2>
-Das Modell wurde durch transformers, NLP,NLU und mit NLG schichten trainiert.
+Das Modell wurde durch transformers, NLP, NLU, self-learning und mit NLG schichten trainiert.
 <br>
 Das Modell soll das perfekte modell sein das von Löwolf Community erstellt wurde.
 <br>
-Das Modell wird bei google colab trainiert mit 60 epochen.
+Das Modell wird bei google colab trainiert mit passenden epochen.
 <br>
 Das Modell wird zuerst mit wenig daten trainiert, also das modell wird bei github nicht verfügbar sein nur bei beta version, aber hier könnt auf meinen youtube kanal anschauen was da neues gibt.
 <br>
